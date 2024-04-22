@@ -1,0 +1,7 @@
+C:\Users\ferre\source\repos\LISTA 4.12\LISTA 4.12\obj\Debug\LISTA 4.12.csproj.AssemblyReference.cache
+C:\Users\ferre\source\repos\LISTA 4.12\LISTA 4.12\obj\Debug\LISTA 4.12.csproj.CoreCompileInputs.cache
+C:\Users\ferre\source\repos\LISTA 4.12\LISTA 4.12\bin\Debug\LISTA 4.12.exe.config
+C:\Users\ferre\source\repos\LISTA 4.12\LISTA 4.12\bin\Debug\LISTA 4.12.exe
+C:\Users\ferre\source\repos\LISTA 4.12\LISTA 4.12\bin\Debug\LISTA 4.12.pdb
+C:\Users\ferre\source\repos\LISTA 4.12\LISTA 4.12\obj\Debug\LISTA 4.12.exe
+C:\Users\ferre\source\repos\LISTA 4.12\LISTA 4.12\obj\Debug\LISTA 4.12.pdb
