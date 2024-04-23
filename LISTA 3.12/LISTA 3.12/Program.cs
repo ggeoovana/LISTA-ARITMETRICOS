@@ -13,15 +13,13 @@ namespace LISTA_3._12
             Double d;
             Double area;
 
-            Console.Write("digite a diagonal do quadrado: ");
+            Console.Write("Digite a diagonal do quadrado: ");
             d= Double.Parse(Console.ReadLine());
 
-            area= d*d;
+            area= Math.Pow(d,2)/2;
 
-            Console.Write(" a area do quadrado é: ");
+            Console.Write("A area do quadrado é: ");
             Console.WriteLine(area);
-
-
 
         }
     }
