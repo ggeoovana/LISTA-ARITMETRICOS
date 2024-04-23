@@ -14,15 +14,15 @@ namespace LISTA_4._12
             Double a;
             Double area;
 
-            Console.Write("digite a base do triangulo: ");
+            Console.Write("Digite a base do triângulo: ");
             b= Double.Parse(Console.ReadLine());
 
-            Console.Write("digite a altura do triagulo: ");
+            Console.Write("Digite a altura do triângulo: ");
             a= Double.Parse(Console.ReadLine());
 
-            area= b*a /2;
+            area= (b*a)/2;
 
-            Console.Write("valor da area do triangulo é: ");
+            Console.Write("O valor da area do triângulo é: ");
             Console.WriteLine(area);
 
         }
