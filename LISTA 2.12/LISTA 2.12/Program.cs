@@ -13,12 +13,12 @@ namespace LISTA_2._12
             Double aresta;
             Double area;
            
-            Console.Write("digite a aresta do quadrado: ");
+            Console.Write("Digite a aresta do quadrado: ");
             aresta= Double.Parse(Console.ReadLine());
 
-            area= aresta * aresta;
+            area= Math.Pow(aresta,2);
 
-            Console.Write("a area do quadrado é: ");
+            Console.Write("A area do quadrado é: ");
             Console.WriteLine(area);
 
         }
