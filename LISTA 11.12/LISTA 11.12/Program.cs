@@ -14,15 +14,15 @@ namespace LISTA_11._12
             Double y;
             Double resultado;
 
-            Console.Write("digite o valor de x: ");
+            Console.Write("Digite o valor de x para calcular sua potência: ");
             x= Double.Parse(Console.ReadLine());
 
-            Console.Write("digite o valor de y: ");
+            Console.Write("Digite o valor de y para ser o expoente de x: ");
             y= Double.Parse(Console.ReadLine());
 
             resultado= Math.Pow(x, y);
 
-            Console.Write("o valor de x elevado ao valor de y é igual a: ");
+            Console.Write("O valor de x elevado ao valor de y é igual a: ");
             Console.WriteLine(resultado);
 
         }
